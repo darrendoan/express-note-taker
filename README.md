@@ -4,13 +4,13 @@
 This simple app allows you to keep track of notes and allows you to add, update or delete them. 
 
 ## Table of Contents
-- [Overview] (#Overview)
-- [The Challenge] (#The-Challenge)
-- [Usage Intructions] (#Usage-Instructions)
+- [Overview](#Overview)
+- [The Challenge](#The-Challenge)
+- [Usage Intructions](#Usage-Instructions)
 - [Installation Process](#Installation-Process)
-- [Built With] (#Built-With)
+- [Built With](#Built-With)
 - [What I Learned](#What-I-Learned)
-- [Credits] (#Credits)
+- [Credits](#Credits)
 
 # Overview
 
